@@ -1,0 +1,20 @@
+/* Selector de ID (vale 100 puntos) */
+#parrafo {
+    color: rgb(17, 194, 17); /* Verde */
+}
+
+    header{ 
+        background-color: rgb(3, 128, 3);
+
+
+    }
+
+    main{
+
+        background-color: rgb(6, 6, 161);
+
+    }
+
+    footer{
+        background-color: rgb(111, 245, 200);
+    }
